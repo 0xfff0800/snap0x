@@ -66,7 +66,7 @@ if falah == "1":
     "Host": "gcp.api.snapchat.com"
 }
       
-        time.sleep(10)
+        time.sleep(0.1)
         response = r.post(url, data=payload , headers=headers).text
         info = json.loads(response)
 
