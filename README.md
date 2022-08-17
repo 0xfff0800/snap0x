@@ -23,7 +23,7 @@ brute force free snapchat	2021</p>
 
 
 <p align="center">
-  <a href="https://github.com/curv3ball/snapbot">
+  <a href="https://github.com/0xfff0800/snap0x/blob/main/snap0x.py">
     <img src="https://www.up-00.com/i/00212/om9006d9u6t0.jpeg" width="500" height="500">
   </a>
 
