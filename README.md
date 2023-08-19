@@ -6,8 +6,8 @@ Supports iOS and macOS and some Android devices need a license key from a site [
 
 
 <p align="center">
-  <img src="https://c.top4top.io/p_2787253zr1.jpg" alt="Android badge" style="margin:auto" width="600" 
-height="600">
+  <img src="https://c.top4top.io/p_2787253zr1.jpg" alt="Android badge" style="margin:auto" width="400" 
+height="400">
 </p>
 
 <p align="center">
