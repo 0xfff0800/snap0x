@@ -2,7 +2,8 @@
 
 ![Pub]( https://img.shields.io/badge/Snapchat-Snap0x-yellow)
 
-Supports iOS and macOS and some Android devices need a license key from a site [ByE ThoST](https://bye-thost.com/product/snap0x-ios-android/) 
+Supports iOS and macOS and some Android devices need a license key from a site 
+[ByE ThoST](https://bye-thost.com/product/snap0x-ios-android/) 
 
 
 <p align="center">
