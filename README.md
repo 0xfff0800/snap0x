@@ -1,40 +1,54 @@
+# Snap0x App Snapchat Plugin Services
 
-<html>
-<br />
-	<p align="center">
-brute force free snapchat	2021</p>
-	
+![Pub]( https://img.shields.io/badge/Snapchat-Snap0x-yellow)
+
+Supports iOS and macOS and some Android devices need a license key from a site [ByE ThoST](https://bye-thost.com/product/snap0x-ios-android/) 
+
+
 <p align="center">
-  <a href="https://github.com/curv3ball/snapbot">
-    <img src="https://cdn1.iconfinder.com/data/icons/snapchat-ui-colored-2/48/JD-02-512.png" alt="Logo" width="80" height="80">
-  </a>
+  <img src="https://c.top4top.io/p_2787253zr1.jpg" alt="Android badge" style="margin:auto" width="600" 
+height="600">
+</p>
 
-  <h3 align="center">Snap0x</h3>
-
-  <p align="center">
-   Only accounts that do not use two-factor authentication 
-    <br />
-	<br />
-	<br />
-	<img alt="GitHub" src="https://img.shields.io/github/downloads/curv3ball/snapbot/total.svg">
-	<img alt="GitHub last commit" src="https://img.shields.io/pypi/pyversions/Django">
-  </p>
+<p align="center">
+  <img src="https://b.top4top.io/p_2787ocm521.jpg" alt="Android badge" style="margin:auto" width="150" 
+height="150">
 </p>
 
 
-<p align="center">
-  <a href="https://github.com/0xfff0800/snap0x/blob/main/snap0x.py">
-    <img src="https://www.up-00.com/i/00212/om9006d9u6t0.jpeg" width="500" height="500">
-  </a>
+## Getting Started
+
+### iOS
+
+Install the scarlet app from:
+
+https://usescarlet.com
+
+After that, enter the program after installation, download the Snap0x.ipa file, and install it on your device through the scarlet application
+
+Or you can install it with your own certificate via AltStore
+
+https://altstore.io
 
 
-<p align="left">
-<br />
-The Snap0x project started in 2020 as an educational assessment aiming to teach users of the iOS application "Snapchat" how to hack accounts. The initial goal was to be able to work brute force without errors to specific users in an automated way, now Snap0x is fully functional which many people have learned about the beta version In a reliable way, the official version has now been published to all
-</p>
-<p align="center">
-<br />
-<a href="https://www.snapchat.com/add/flaah999">Snapchat</a><br />
-<a href="https://t.me/s/Xfff0800?before=212">Telegram</a><br />
-<a href="https://twitter.com/0xfalah">Twitter</a>
-<p>
+### Android
+
+Just download Snap0x.apk and install it on your device without any further steps
+
+### What are the current features ?
+
+Additional features have been added in version 1.0.4 of Snap0x, including:
+
+```
+✅ Phone number inquiry
+✅ Account reports
+✅ Bring the data of the friends registered in your account
+✅ Extracting some information such as the date the friend was added and who changed the username from the old to the new
+✅ Brute force on accounts in the Snapchat app
+✅ Save followers via Firebase
+✅ Login page to retrieve data across the server
+```
+### How long is the license key ?
+
+The period is 30 days, and it is activated after completing your payment through our official website, and the license is sent to you via the email registered in the account within a few seconds [ByE ThoST](https://bye-thost.com/product/snap0x-ios-android/) 
+
