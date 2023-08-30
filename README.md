@@ -38,16 +38,18 @@ Just download Snap0x.apk and install it on your device without any further steps
 
 ### What are the current features ?
 
-Additional features have been added in version 1.0.4 of Snap0x, including:
+Additional features have been added in version 1.0.5 of Snap0x, including:
 
 ```
 ✅ Phone number inquiry
 ✅ Account reports
-✅ Bring the data of the friends registered in your account
-✅ Extracting some information such as the date the friend was added and who changed the username from the old to the new
-✅ Brute force on accounts in the Snapchat app
+✅ Add new countries to check phone numbers 🇶🇦🇴🇲🇧🇭
+✅ Drag and add followers
+✅ Brute force on account
 ✅ Save followers via Firebase
-✅ Login page to retrieve data across the server
+✅ Create a login page
+✅ Fix some bugs for Android device users
+✅ Add file management (upload photos, videos, files) 🎉
 ```
 ### How long is the license key ?
 
