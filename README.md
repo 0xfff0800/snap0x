@@ -38,7 +38,7 @@ Just download Snap0x.apk and install it on your device without any further steps
 
 ### What are the current features ?
 
-Additional features have been added in version 1.0.7 of Snap0x, including:
+Additional features have been added in version 1.0.8 of Snap0x, including:
 
 ```
 ✅ Phone number inquiry
