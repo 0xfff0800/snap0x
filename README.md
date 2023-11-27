@@ -6,16 +6,6 @@ Supports iOS and macOS and some Android devices need a license key from a site
 [ByE ThoST](https://bye-thost.com/product/snap0x-ios-android/) 
 
 
-<p align="center">
-  <img src="https://c.top4top.io/p_2787253zr1.jpg" alt="Android badge" style="margin:auto" width="400" 
-height="400">
-</p>
-
-<p align="center">
-  <img src="https://b.top4top.io/p_2787ocm521.jpg" alt="Android badge" style="margin:auto" width="150" 
-height="150">
-</p>
-
 
 ## Getting Started
 
@@ -38,7 +28,7 @@ Just download Snap0x.apk and install it on your device without any further steps
 
 ### What are the current features ?
 
-Additional features have been added in version 1.0.8 of Snap0x, including:
+Additional features have been added in version 2.0.0 of Snap0x, including:
 
 ```
 ✅ Phone number inquiry
@@ -50,7 +40,12 @@ Additional features have been added in version 1.0.8 of Snap0x, including:
 ✅ Create a login page
 ✅ Fix some bugs for Android device users
 ✅ Add file management (upload photos, videos, files) 🎉
-
+✅ Possibility of downloading snaps via account and device
+✅ All types of brute force have been added
+✅ Report stories automatically
+✅ Search for available usernames with banned detection
+✅ Providing ready-made combo files, password files, and user names
+✅ Additional services, for example, purchasing premium accounts and removing two-factor authentication from the account
 ```
 ### How long is the license key ?
 
