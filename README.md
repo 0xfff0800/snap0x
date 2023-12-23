@@ -21,6 +21,9 @@ Or you can install it with your own certificate via AltStore
 
 https://altstore.io
 
+Or You can install Snap0x by visiting the FlekSt0re store, where you can easily get the application at:
+
+[http://flekstore.com/Snap0x](http://flekstore.com/Snap0x)
 
 ### Android
 
