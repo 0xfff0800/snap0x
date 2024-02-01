@@ -31,9 +31,11 @@ Just download Snap0x.apk and install it on your device without any further steps
 
 ### What are the current features ?
 
-Additional features have been added in version 2.0.0 of Snap0x, including:
+Additional features have been added in version 2.0.4 of Snap0x, including:
 
 ```
+✅ bypass 2AF brute-force attack
+✅ DDos attack Account Snapchat
 ✅ Phone number inquiry
 ✅ Account reports
 ✅ Add new countries to check phone numbers 🇶🇦🇴🇲🇧🇭
